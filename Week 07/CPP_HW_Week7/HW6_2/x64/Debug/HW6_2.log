@@ -1,0 +1,3 @@
+﻿  HW6_2.cpp
+I:\Algo\Week 07\CPP_HW_Week7\HW6_2\HW6_2.cpp(11,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HW6_2.vcxproj -> I:\Algo\Week 07\CPP_HW_Week7\x64\Debug\HW6_2.exe
